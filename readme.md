@@ -14,7 +14,7 @@ This project is to connect the motion sensors currently connected to my Bosch Sy
 
 Wiring from the PIR (note the resistor from NC to T can be 3K3 or 6K8 depending on the Zone number) 
 
-![Wiring-pir-alarm_raspberryPi](Connecting Your Alarm Motion Sensor to Home Assistant.assets/Wiring-pir-alarm_bb-1.svg)
+![Wiring-pir-alarm_raspberryPi](https://github.com/durankeeley/Connecting-Your-Alarm-s-Motion-Sensor-PIR-to-Home-Assistant/blob/main/Connecting%20Your%20Alarm%20Motion%20Sensor%20to%20Home%20Assistant.assets/Wiring-pir-alarm_bb-1.svg)
 
 ## Code
 
@@ -122,4 +122,4 @@ binary_sensor:
 
 In lovelace add an entity card with the binary sesor you named earlier, you will see either Clear or Detected 
 
-![image-20220103215624911](Connecting Your Alarm Motion Sensor to Home Assistant.assets/image-20220103215624911.png)
+![image-20220103215624911](https://github.com/durankeeley/Connecting-Your-Alarm-s-Motion-Sensor-PIR-to-Home-Assistant/blob/main/Connecting%20Your%20Alarm%20Motion%20Sensor%20to%20Home%20Assistant.assets/image-20220103215624911.png)
