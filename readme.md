@@ -8,7 +8,7 @@ This project is to connect the motion sensors currently connected to my Bosch Sy
 
 - Bosch Solution 844
 - Bosch ISM‑BLP1 Blue Line PIR Detector
-- Raspberry Pi (i tested on a Pi 1 B+ before moving to a Zero)
+- Raspberry Pi (I tested on a Pi 1 B+ before moving to a Zero)
 
 ## PIR Wiring Diagram
 
